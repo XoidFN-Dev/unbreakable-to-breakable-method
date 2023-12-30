@@ -1,4 +1,4 @@
-# unbreakable-to-breakable-method
+# unbreakable-to-breakable-prop-method
 This is a method to make any unbreakable prop in Fortnite creative breakable!
 
 ⇒ Place down a trick tile device and turn the "reset after use" setting on 1 second
